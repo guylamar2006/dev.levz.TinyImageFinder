@@ -15,5 +15,5 @@ modules:
     buildsystem: cmake-ninja
     sources:
       - type: archive
-        url: https://github.com/sergey-levin/tiny-image-finder/archive/refs/tags/v0.1.1.tar.gz
-        sha256: aa96142656ce105099b5ae8a245f092a371047ed427a3cc5a6c8d5e63d317605
+        url: https://github.com/sergey-levin/tiny-image-finder/archive/refs/tags/v0.1.2.tar.gz
+        sha256: 80fe0c5d16c434548576638609aa6b9e9b44a706d590a6b42903d856fffdc817
